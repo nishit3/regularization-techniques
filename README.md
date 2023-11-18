@@ -12,3 +12,6 @@ I have assessed and plotted the train and test accuracy of the ANN-based binary 
 
 ## Lasso/L1 Regularization Parameter Experiment on Iris Dataset
 ![Figure_1](https://github.com/nishit3/regularization-techniques/assets/90385616/221302f8-2f38-44e6-8f2c-5858dd8d0ccc)
+
+## ElasticNet Regularization Parameter Experiment on Iris Dataset
+![Figure_1](https://github.com/nishit3/regularization-techniques/assets/90385616/3afbb676-c3d9-447c-af21-2b07c8f4a9c1)
