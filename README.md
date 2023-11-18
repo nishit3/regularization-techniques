@@ -9,3 +9,6 @@ I have assessed and plotted the train and test accuracy of the ANN-based binary 
 
 ## Ridge/Weight Decay/L2 Regularization Parameter Experiment on Iris Dataset
 ![Figure_1](https://github.com/nishit3/regularization-techniques/assets/90385616/02be70da-62c8-4b30-a2b6-752e224b4599)
+
+## Lasso/L1 Regularization Parameter Experiment on Iris Dataset
+![Figure_1](https://github.com/nishit3/regularization-techniques/assets/90385616/221302f8-2f38-44e6-8f2c-5858dd8d0ccc)
