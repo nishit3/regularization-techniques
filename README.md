@@ -17,6 +17,6 @@ I have assessed and plotted the train and test accuracy of the ANN-based binary 
 ![Figure_1](https://github.com/nishit3/regularization-techniques/assets/90385616/3afbb676-c3d9-447c-af21-2b07c8f4a9c1)
 
 ## Accuracy as a function of mini-batch size
-![Figure_1](https://github.com/nishit3/regularization-techniques/assets/90385616/b9ffe133-1f06-410f-80ea-685fca9ea2da)   ![Figure_2 
-(https://github.com/nishit3/regularization-techniques/assets/90385616/e0ec854e-9fa1-4de3-8267-3e7edf495360)
+![Figure_1](https://github.com/nishit3/regularization-techniques/assets/90385616/b9ffe133-1f06-410f-80ea-685fca9ea2da)   
 
+![Figure_2](https://github.com/nishit3/regularization-techniques/assets/90385616/6a550687-d0eb-4913-818b-dd91c4a852f3)
