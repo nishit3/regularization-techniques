@@ -20,3 +20,8 @@ I have assessed and plotted the train and test accuracy of the ANN-based binary 
 ![Figure_1](https://github.com/nishit3/regularization-techniques/assets/90385616/b9ffe133-1f06-410f-80ea-685fca9ea2da)   
 
 ![Figure_2](https://github.com/nishit3/regularization-techniques/assets/90385616/6a550687-d0eb-4913-818b-dd91c4a852f3)
+
+## With vs Without Batch Normalization on ANN-based Binary Classifier (Wine Taste Good/Bad)
+![with batchnorm](https://github.com/nishit3/regularization-techniques/assets/90385616/0cae57ba-60ec-4c0d-9990-4a96a9b573c8)
+
+![without batchnorm](https://github.com/nishit3/regularization-techniques/assets/90385616/1d5aaf8b-d7e1-41ca-9c4b-3da4efdf9d67)
