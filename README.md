@@ -25,3 +25,8 @@ I have assessed and plotted the train and test accuracy of the ANN-based binary 
 ![with batchnorm](https://github.com/nishit3/regularization-techniques/assets/90385616/0cae57ba-60ec-4c0d-9990-4a96a9b573c8)
 
 ![without batchnorm](https://github.com/nishit3/regularization-techniques/assets/90385616/1d5aaf8b-d7e1-41ca-9c4b-3da4efdf9d67)
+
+## Optimizers compared using test accuracies over a range of learning rates
+
+![Figure_1](https://github.com/nishit3/regularization-techniques/assets/90385616/c9e442cf-e713-4119-983a-5f9a062e3445)
+
